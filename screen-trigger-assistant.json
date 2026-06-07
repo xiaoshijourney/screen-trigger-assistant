@@ -1,0 +1,21 @@
+{
+  "monitor_region": [
+    1809,
+    840,
+    678,
+    161
+  ],
+  "message": "1",
+  "sensitivity": 0.005,
+  "cooldown_seconds": 300.0,
+  "check_interval": 0.2,
+  "click_position": [
+    1498,
+    769
+  ],
+  "trigger_keywords": "不好",
+  "block_keywords": "",
+  "click_enabled": true,
+  "action_enabled": false,
+  "trigger_mode": "ocr"
+}

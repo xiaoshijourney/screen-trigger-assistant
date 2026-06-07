@@ -1,0 +1,9 @@
+mss>=9.0.1
+numpy>=1.24.0
+Pillow>=10.0.0
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+pyperclip>=1.8.2
+pywin32>=306
+keyboard>=0.13.5
+easyocr>=1.7.0
